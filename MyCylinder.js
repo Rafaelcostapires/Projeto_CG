@@ -1,4 +1,4 @@
-import { CGFobject } from '../lib/CGF.js';
+import { CGFobject } from './lib/CGF.js';
 
 /**
  * Represents a 3D cylinder with configurable dimensions and optional end caps

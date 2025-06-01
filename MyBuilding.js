@@ -1,4 +1,4 @@
-import { CGFobject, CGFappearance, CGFtexture } from "../lib/CGF.js";
+import { CGFobject, CGFappearance, CGFtexture } from "./lib/CGF.js";
 import { MyWindow } from "./MyWindow.js";
 import { MyCube } from "./MyCube.js";
 import { MyQuad } from "./MyQuad.js";

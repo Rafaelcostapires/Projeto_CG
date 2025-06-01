@@ -1,4 +1,4 @@
-import { CGFobject } from '../lib/CGF.js';
+import { CGFobject } from './lib/CGF.js';
 
 /**
  * Represents a flat circular surface made of triangular segments radiating from center
